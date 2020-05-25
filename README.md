@@ -1,9 +1,11 @@
 # Healthcare Analysis using Software Aid
-Fittness is one of the major concerns of present time. Healthcare Analysis to measure certain parameters has been done in MFDM repository. The person’s fitness statistics is used for further facts analysis, as next step of the project. The version is skilled with supervised classification algorithms namely, Classification. 
-
-In this part of the project, a Machine Learning based model is employed to detect the probability of diabetes for an individual.
+Fittness is one of the major concerns of present time. The purpose of this was to promote and enhance the healthcare facilities for both patients and doctors. A prediction model is made which examines the features or symptoms in some cases to yield the result by showing the health status or with any disease, a person might have in coming years. This project presents the data based on the study of parameters on which diabetes depends and is employed to detect the probability of diabetes for an individual.
 
 ## Basic Working
+The purpose was to create an application which can model a neural network on the basis of user inputs and then model can be further used for contemporary data prediction and analysis.
+
+To make the application, we have used the Python language and worked in Spyder. Keras libraries are used to model the neural network. Firstly a model was created and training was done on it. After achieving a certain amount of accuracy the final model is loaded. Then a Graphical User Interface was created which was required to fetch user input and based on the saved model, the predictions were done.
+
 
 ## Dependencies
 
