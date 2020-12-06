@@ -1,5 +1,6 @@
 # Healthcare Analysis using Software Aid
 
+#### Refer MFMD repo before this for hardware aid
 Fittness is one of the major concerns of present time. The purpose of this was to promote and enhance the healthcare facilities for both patients and doctors. A prediction model is made which examines the features or symptoms in some cases to yield the result by showing the health status or with any disease, a person might have in coming years. This project presents the data based on the study of parameters on which diabetes depends and is employed to detect the probability of diabetes for an individual.
 
 ## Basic Working
