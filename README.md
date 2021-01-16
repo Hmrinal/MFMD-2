@@ -21,7 +21,7 @@ To make the application, we have used the Python language and worked in Spyder. 
 - Numpy
 - Tkinter(GUI interaction)
 
-## Install
+## 📦 Install
 
 Load Anaconda software and open Spyder environment. Copy the given code and save as '.py' file, import the required libraries, like 'numpy' as 'np'. 
 
