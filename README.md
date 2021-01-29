@@ -27,6 +27,6 @@ To make the application, we have used the Python language and worked in Spyder. 
 
 ## 📦 Install
 
-Load Anaconda software and open Spyder environment. Copy the given code and save as '.py' file, import the required libraries, like 'numpy' as 'np'. 
+Load Anaconda software and open Spyder environment. Copy the given code and save as ```.py``` file, import the required libraries, like 'numpy' as 'np'. 
 
 After saving the code and making appropriate changes according to your requirement, run it and view the output on GUI after filling the required fields. 
