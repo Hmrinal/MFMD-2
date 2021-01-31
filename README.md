@@ -21,7 +21,7 @@ To make the application, we have used the Python language and worked in Spyder. 
 
 - Anaconda (Spyder)
 - Keras and Tensorflow
-- Python, Matplot, Seaborn and Pandas
+- Matplot, Seaborn and Pandas
 - Numpy
 - Tkinter(GUI interaction)
 
