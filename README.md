@@ -17,6 +17,7 @@ To make the application, we have used the Python language and worked in Spyder. 
 
 - Graphical User Interface 
 
+
 ## Dependencies
 
 - Anaconda (Spyder)
